@@ -1,0 +1,99 @@
+{
+    "quizzes": [
+        {
+            "id": "general_knowledge",
+            "title": "General Knowledge",
+            "description": "Test your knowledge about various topics",
+            "difficulty": "Medium",
+            "questions": [
+                {
+                    "text": "What is the capital of France?",
+                    "options": [
+                        "London",
+                        "Berlin",
+                        "Paris",
+                        "Madrid"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "text": "Which planet is known as the Red Planet?",
+                    "options": [
+                        "Venus",
+                        "Mars",
+                        "Jupiter",
+                        "Saturn"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "text": "Who painted the Mona Lisa?",
+                    "options": [
+                        "Michelangelo",
+                        "Leonardo da Vinci",
+                        "Raphael",
+                        "Van Gogh"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "text": "What is the hardest natural substance?",
+                    "options": [
+                        "Gold",
+                        "Iron",
+                        "Diamond",
+                        "Quartz"
+                    ],
+                    "answer": 2
+                }
+            ]
+        },
+        {
+            "id": "science_trivia",
+            "title": "Science Trivia",
+            "description": "Fun science facts and concepts",
+            "difficulty": "Easy",
+            "questions": [
+                {
+                    "text": "What is the chemical symbol for water?",
+                    "options": [
+                        "H2O",
+                        "CO2",
+                        "NaCl",
+                        "O2"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "text": "What is the largest mammal?",
+                    "options": [
+                        "Elephant",
+                        "Blue Whale",
+                        "Giraffe",
+                        "Hippopotamus"
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "2a82ee8a-183d-44e1-85b6-2d497f5d212f",
+            "title": "New Quiz",
+            "description": "",
+            "difficulty": "Easy",
+            "category": "Easy",
+            "questions": [
+                {
+                    "text": "Which is the smallest country in the world?",
+                    "options": [
+                        "Nepal",
+                        "Vatican City",
+                        "Bhutan",
+                        "Srilanka"
+                    ],
+                    "answer": 1
+                }
+            ]
+        }
+    ]
+}
